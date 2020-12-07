@@ -12,5 +12,5 @@
 运行  python .\screenshot.py
 
 ### 结果
-结果存储到 './result/'
+结果存储到 ./result/
 其中 ./result/res.txt 为截图+url信息
