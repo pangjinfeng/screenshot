@@ -2,7 +2,7 @@
 基于selenium的批量网页截图小工具，适用于批量网站核验研判，暂时只支持Chrome
 
 ### 准备驱动
-下载链接：[chromedriver](http://chromedriver.storage.googleapis.com/index.html) 
+下载链接：[chromedriver](http://chromedriver.storage.googleapis.com/index.html)     
 选择与Chrome版本一致的驱动软件，并放在当前目录(样例文件为谷歌V87.0.4280)
 
 ###  需要截图的url
